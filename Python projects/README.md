@@ -6,3 +6,5 @@
 3. [Текстовый калькулятор](https://github.com/MichaelErhan/Portfolio/blob/main/Python%20projects/text-calculator.py)
 4. [Игра "Шахматы"](https://github.com/MichaelErhan/Portfolio/tree/main/Python%20projects/shaxmati)
 5. [Игра "Лоскутное одеяло"](https://github.com/MichaelErhan/Portfolio/blob/main/Python%20projects/loskutnoe-odeyalo.py)
+
+*Со временем портфолио будет пополняться многими интересными проектами*
