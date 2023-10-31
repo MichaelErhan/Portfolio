@@ -6,5 +6,6 @@
 3. [Текстовый калькулятор](https://github.com/MichaelErhan/Portfolio/blob/main/Python%20projects/text-calculator.py)
 4. [Игра "Шахматы"](https://github.com/MichaelErhan/Portfolio/tree/main/Python%20projects/shaxmati)
 5. [Игра "Лоскутное одеяло"](https://github.com/MichaelErhan/Portfolio/blob/main/Python%20projects/loskutnoe-odeyalo.py)
+6. [Игра "Угадай число" с графическим интерфейсом и импортом/экспортом игровых данных](https://github.com/MichaelErhan/Portfolio/blob/main/Python%20projects/game_guess-number.py)
 
 *Со временем портфолио будет пополняться многими интересными проектами*
