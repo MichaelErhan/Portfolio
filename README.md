@@ -14,15 +14,18 @@
 6. Git
 7. Unity Editor
 8. Visual Studio
+9. Visual Studio Code
 
 *Чем занимаюсь в настоящее время:*
 1. Погружаюсь в мир разработки игр, используя С#, Git и движок Unity.
 2. Изучаю язык программирования Python, делаю телеграмм-ботов, а так же игры на этом языке.
+3. Парралельно изучаю языки html и css, прохожу курсы с сертификатами. 
 
 *Проекты, которые я сделал и работают должным образом:*
 1. [Разработка автоматизированной информационной системы учёта продажи билетов в кинотеатре в 1С: Предприятие 8](https://github.com/MichaelErhan/Portfolio/tree/main/Diplom)
 2. [Проекты на языке программирования Python](https://github.com/MichaelErhan/Portfolio/tree/main/Python%20projects)
 3. [Проекты, связанные с разработкой игр на С# и Unity](https://github.com/MichaelErhan/Portfolio/tree/main/C%23%20and%20Unity)
+4. [Проекты с использованием html и css](https://github.com/MichaelErhan/Portfolio/tree/main/html%26css)
 
 
 *Со временем портфолио будет пополняться многими интересными проектами*
