@@ -26,6 +26,7 @@
 2. [Проекты на языке программирования Python](https://github.com/MichaelErhan/Portfolio/tree/main/Python%20projects)
 3. [Проекты, связанные с разработкой игр на С# и Unity](https://github.com/MichaelErhan/Portfolio/tree/main/C%23%20and%20Unity)
 4. [Проекты с использованием html и css](https://github.com/MichaelErhan/Portfolio/tree/main/html%26css)
+5. [Проекты PostgreSQL](https://github.com/MichaelErhan/Portfolio/tree/main/PostgreSQL)
 
 
 *Со временем портфолио будет пополняться многими интересными проектами*
