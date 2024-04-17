@@ -10,5 +10,6 @@
 7. [Файловый менеджер](https://github.com/MichaelErhan/Programming_Laba_2)
 8. [TCP-клиент и эхо-сервер](https://github.com/MichaelErhan/Programming_Laba_3)
 9. [Простой многопоточный сервер](https://github.com/MichaelErhan/Programming_Laba_4)
+10. [Клиент-сервер с шифрованием](https://github.com/MichaelErhan/Programming_Laba_5)
 
 **Со временем портфолио будет пополняться многими интересными проектами*
